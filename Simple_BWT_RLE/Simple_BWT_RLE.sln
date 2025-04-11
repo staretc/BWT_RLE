@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWT_RLE_Lib", "BWT_RLE_Lib\BWT_RLE_Lib.csproj", "{C481962F-C55F-495E-AB8A-DC5F241F6AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BWT_RLE_Experiments", "BWT_RLE_Experiments\BWT_RLE_Experiments.csproj", "{9139B5B3-6930-488D-A871-4636D756ACCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C481962F-C55F-495E-AB8A-DC5F241F6AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C481962F-C55F-495E-AB8A-DC5F241F6AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C481962F-C55F-495E-AB8A-DC5F241F6AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C481962F-C55F-495E-AB8A-DC5F241F6AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9139B5B3-6930-488D-A871-4636D756ACCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9139B5B3-6930-488D-A871-4636D756ACCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9139B5B3-6930-488D-A871-4636D756ACCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9139B5B3-6930-488D-A871-4636D756ACCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85592019-69CB-4A03-A547-2EE0D7BC07F7}
+	EndGlobalSection
+EndGlobal

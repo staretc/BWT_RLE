@@ -1,0 +1,6 @@
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\bin\Release\BWT_RLE_Lib.dll
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\bin\Release\BWT_RLE_Lib.pdb
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\obj\Release\BWT_RLE_Lib.csproj.AssemblyReference.cache
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\obj\Release\BWT_RLE_Lib.csproj.CoreCompileInputs.cache
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\obj\Release\BWT_RLE_Lib.dll
+C:\Users\89201\BWT_RLE\Simple_BWT_RLE\BWT_RLE_Lib\obj\Release\BWT_RLE_Lib.pdb

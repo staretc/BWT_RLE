@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9139B5B3-6930-488D-A871-4636D756ACCA}|BWT_RLE_Experiments\\BWT_RLE_Experiments.csproj|c:\\users\\89201\\bwt_rle\\simple_bwt_rle\\bwt_rle_experiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139B5B3-6930-488D-A871-4636D756ACCA}|BWT_RLE_Experiments\\BWT_RLE_Experiments.csproj|solutionrelative:bwt_rle_experiments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|c:\\users\\89201\\bwt_rle\\simple_bwt_rle\\bwt_rle_lib\\bwt_rle_decoratorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|solutionrelative:bwt_rle_lib\\bwt_rle_decoratorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|c:\\users\\89201\\bwt_rle\\simple_bwt_rle\\bwt_rle_lib\\bwtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|solutionrelative:bwt_rle_lib\\bwtclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|c:\\users\\89201\\bwt_rle\\simple_bwt_rle\\bwt_rle_lib\\rleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481962F-C55F-495E-AB8A-DC5F241F6AE5}|BWT_RLE_Lib\\BWT_RLE_Lib.csproj|solutionrelative:bwt_rle_lib\\rleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Experiments\\Program.cs",
+              "RelativeDocumentMoniker": "BWT_RLE_Experiments\\Program.cs",
+              "ToolTip": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Experiments\\Program.cs",
+              "RelativeToolTip": "BWT_RLE_Experiments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowDQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:12:17.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BWT_RLE_DecoratorClass.cs",
+              "DocumentMoniker": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\BWT_RLE_DecoratorClass.cs",
+              "RelativeDocumentMoniker": "BWT_RLE_Lib\\BWT_RLE_DecoratorClass.cs",
+              "ToolTip": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\BWT_RLE_DecoratorClass.cs",
+              "RelativeToolTip": "BWT_RLE_Lib\\BWT_RLE_DecoratorClass.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:51:29.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RLEClass.cs",
+              "DocumentMoniker": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\RLEClass.cs",
+              "RelativeDocumentMoniker": "BWT_RLE_Lib\\RLEClass.cs",
+              "ToolTip": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\RLEClass.cs",
+              "RelativeToolTip": "BWT_RLE_Lib\\RLEClass.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:24:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BWTClass.cs",
+              "DocumentMoniker": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\BWTClass.cs",
+              "RelativeDocumentMoniker": "BWT_RLE_Lib\\BWTClass.cs",
+              "ToolTip": "C:\\Users\\89201\\BWT_RLE\\Simple_BWT_RLE\\BWT_RLE_Lib\\BWTClass.cs",
+              "RelativeToolTip": "BWT_RLE_Lib\\BWTClass.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwDsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:23:18.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
